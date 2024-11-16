@@ -2,7 +2,7 @@ This project provides a Streamlit-based application for backtesting  trading str
 
 ## Files in the Repository
 - `app.py`: The main Streamlit application file.
-- `data.pkl`: Pickled data file for historical Ethereum data.
+- `data.pkl`: Pickled data file for historical  data.
 - `ethereum.xlsx`: Sample Excel data file.
 - `main.py`: Core script for backtesting and signal generation.
 - `requirements.txt`: Python dependencies required for the project.
